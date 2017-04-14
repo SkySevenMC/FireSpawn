@@ -1,7 +1,7 @@
 name: FireSpawn
 main: firespawn\Main
 version: 1.0.0
-api: [3.0.0-ALPHA1,3.0.0-ALPHA2,3.0.0-ALPHA4]
+api: [3.0.0-ALPHA1,3.0.0-ALPHA2,3.0.0-ALPHA4,3.0.0-ALPHA4]
 author: SkySeven
 
 commands:
