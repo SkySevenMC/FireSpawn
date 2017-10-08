@@ -7,6 +7,8 @@ author: SkySeven
 commands:
   hub:
     description: Go back to hub
+  lobby:
+    description: Go back to lobby
   spawn:
     description: Go back to spawn
   sethub:
