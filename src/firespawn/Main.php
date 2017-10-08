@@ -18,7 +18,6 @@ use pocketmine\utils\TextFormat as TF;
 
 class Main extends PluginBase implements Listener{
 	public $Main;
-	public $fj;
 	
 	public function onEnable(){
 	
